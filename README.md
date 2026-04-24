@@ -160,7 +160,7 @@ A Multi-Layer Perceptron (MLP) is implemented using **PyTorch**. The neural-netw
 The MLP architecture includes:
 
 - input layer,
-- two hidden layers,
+- hidden fully connected layers,
 - output layer for binary classification.
 
 Reported test-set performance:
