@@ -262,6 +262,7 @@ jupyter notebook notebooks/adult_income_feature_selection_clustering_classificat
 - The neural-network component is implemented in **PyTorch**.
 - The dataset files are intentionally excluded from the repository and should be downloaded separately.
 - The repository focuses on the implemented analysis and does not present itself as a complete reproduction of every requirement from the original course assignment.
+- Some notebook cells may contain local development paths from the original working environment. When running the notebook on another machine, update those paths to use the repository-relative dataset path `../data/adult.data`.
 
 ---
 
