@@ -59,3 +59,4 @@ can also be kept locally in this folder, but they are not required for the curre
 - The dataset is intentionally excluded from this repository to keep the GitHub project lightweight.
 - The `adult.data` file does not include column headers, so the notebook defines the column names manually.
 - If your local filename differs, either rename it to `adult.data` or update the notebook path accordingly.
+- Some notebook cells may contain local machine-specific paths from the original development environment. When running locally, update them to point to `../data/adult.data` if executing from the `notebooks/` folder, or `data/adult.data` if executing from the repository root.
