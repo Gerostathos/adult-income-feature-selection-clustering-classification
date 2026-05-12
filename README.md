@@ -282,13 +282,4 @@ This project demonstrates:
 - visualization of model results,
 - preparation of a clean notebook-based machine-learning project for GitHub.
 
----
 
-## Future Improvements
-
-- Add support for both `adult.data` and `adult.test`.
-- Refactor preprocessing and modelling code into reusable Python modules.
-- Add a configuration file for dataset paths and experiment settings.
-- Expand hyperparameter tuning for Random Forest and the PyTorch MLP.
-- Add automated metric export to CSV.
-- Add a lightweight inference script for predicting income class on new samples.
